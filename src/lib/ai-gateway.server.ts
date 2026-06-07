@@ -22,9 +22,9 @@ export function createAiGatewayProvider(apiKey: string, initialRunId?: string) {
 
   const provider = createOpenAICompatible({
     name: "ai-gateway",
-    baseURL: "https://ai.gateway.lovable.dev/v1",
+    baseURL: process.env.AI_GATEWAY_URL ?? "https://ai.gateway.lovable.dev/v1",
+    apiKey,
     headers: {
-      "Lovable-API-Key": apiKey,
       "X-AIG-SDK": "vercel-ai-sdk",
     },
     fetch: async (input, init) => {
