@@ -263,3 +263,52 @@ For server-side Supabase or AI gateway features, verify the hosting provider sup
 ## License
 
 This project is released under the terms of the existing `LICENSE` file.
+
+---
+## Screenshots
+
+<p align="center">
+  <img src="./scrrenshort/p1.png" width="800">
+</p>
+
+<p align="center">
+  <img src="./scrrenshort/p2.png" width="800">
+</p>
+
+<p align="center">
+  <img src="./scrrenshort/p3.png" width="800">
+</p>
+
+
+<p align="center">
+  <img src="./scrrenshort/p4.png" width="800">
+</p>
+
+
+
+<p align="center">
+  <img src="./scrrenshort/p5.png" width="800">
+</p>
+
+
+
+<p align="center">
+  <img src="./scrrenshort/p6.png" width="800">
+</p>
+
+
+<p align="center">
+  <img src="./scrrenshort/p7.png" width="800">
+</p>
+
+---
+
+### Team Members
+
+* Veer Pratap Singh
+* Nirbhay Gurjar
+
+---
+
+Made with ❤️ by Team Developers.
+
