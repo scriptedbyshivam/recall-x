@@ -296,6 +296,9 @@ This project is released under the terms of the existing `LICENSE` file.
   <img src="./scrrenshort/p6.png" width="800">
 </p>
 
+<p align="center">
+  <img src="./scrrenshort/p8.png" width="800">
+</p>
 
 <p align="center">
   <img src="./scrrenshort/p7.png" width="800">
